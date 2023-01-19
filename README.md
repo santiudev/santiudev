@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A Software Developer, focused on the backend</h3>
 
-- 🔭 I’m currently working on **"Invierto en mi"**
+- 🔭 I’m currently working on **"Syncronik"**
 
 - 🌱 I’m currently learning **Degree in system**
 
